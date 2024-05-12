@@ -2,7 +2,7 @@
 In a world where expressing thoughts, sharing experiences, and connecting with like-minded individuals is paramount, "Bloggy" emerges as your quintessential blogging companion. Seamlessly blending intuitive design with powerful features, Bloggy revolutionizes the way you create, publish, and engage with content using **flask** and **postgres**.
 
 ## PreRequiresities for this application:
-Python <br>
+Install Python using [https://www.python.org/downloads/] <br>
 pip install pipenv <br>
 pipenv install psycopg2-binary <br>
 pipenv install SQLAlchemy <br>
