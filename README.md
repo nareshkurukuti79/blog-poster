@@ -7,7 +7,7 @@ pip install pipenv </ br>
 pipenv install psycopg2-binary </ br>
 pipenv install SQLAlchemy </ br>
 pipenv install flask </ br>
-pipenv shell //to activate venv </ br>
+pipenv shell //to activate venv <br>
 pipenv install Flask_SQLAlchemy //Need to connect flask application with dabase </ br>
 
 ## DataBase:
