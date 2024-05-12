@@ -23,3 +23,6 @@ os.urandom(24)
 
 ## Note:
 The Complete code in this file "7.coding_deletion_functionality.py", remaining files are sequences for developing this application.
+
+run this command
+**python 7.coding_deletion_functionality.py**
